@@ -1,0 +1,28 @@
+img{
+	border-radius:50px;
+}
+
+header{
+	color:white;
+	background-color:#ff03c4;
+	text-align:center;
+}
+div{
+	column-count:2;
+	column-rule:2px dashed black;
+	column-gap:50px;
+}
+h1,h5{
+	line-height:1px;
+}
+h3{
+	color:white;
+	background-color:#ff03c4;
+}
+h5{
+	color:black;
+	text-decoration-line:underline;
+}
+body{
+	font-family:Calibri;
+}
