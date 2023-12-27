@@ -4,7 +4,7 @@
 
 • I used grid property.
 
-• I hosted this website in 000webhost.com
+• I hosted this website on 000webhost.com
 
 
 # Website Link
